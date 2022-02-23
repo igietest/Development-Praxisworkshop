@@ -9,7 +9,7 @@ namespace Project
   class TableSettings
   {
     public string StorageAccount { get; }
-    // public string StorageKey { get; }
+    // public string StorageKey { get; } adfsafdsad
     public string StorageConnectionString { get; }
     public string TableName { get; }
 
